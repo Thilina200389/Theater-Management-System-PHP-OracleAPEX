@@ -23,6 +23,7 @@ A comprehensive web-based management solution designed for modern cinema operati
 2.  Ensure your Oracle APEX REST endpoints are active.
 3.  Configure the `API_BASE_URL` in `Config/connector.php`.
 4.  Run the application via `localhost/Theater-Management-System-PHP-OracleAPEX/index.php`.
+5.  Login: username `admin`, password `admin123`
 
 ---
 *Developed by Thilina Sandakelum Wijesinghe for the Database Implementation module | Department fo Software Technology at the University of Vocational Technology (UoVT)*
