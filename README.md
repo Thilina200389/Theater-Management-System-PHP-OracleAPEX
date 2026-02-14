@@ -14,12 +14,12 @@ A comprehensive web-based management solution designed for modern cinema operati
 * **Frontend:** HTML5, CSS3, JavaScript
 * **API Communication:** JSON via Oracle REST Data Services (ORDS)
 
-## 📸 Interface Preview
+## Interface Preview
 ![Admin Dashboard](screenshots/admin_dashboard.png)
 *The centralized dashboard showcasing movie and theater statistics.*
 
-## 🚀 Setup & Installation
-1.  Clone the repository to your local `www/` or `htdocs/` folder.
+## Setup & Installation
+1.  Clone the repository to your localhost `www/` or `htdocs/` folder.
 2.  Ensure your Oracle APEX REST endpoints are active.
 3.  Configure the `API_BASE_URL` in `Config/connector.php`.
 4.  Run the application via `localhost/Theater-Management-System-PHP-OracleAPEX/index.php`.
